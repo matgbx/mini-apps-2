@@ -1,0 +1,33 @@
+.checkoutBtn {
+  padding: 5px;
+  border: 1px solid #e0e0e0;
+  width: 100px;
+  cursor: pointer;
+}
+
+.nextBtn {
+  padding: 5px;
+  border: 1px solid #e0e0e0;
+  width: 50px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.credType {
+  border: 1px solid #e0e0e0;
+  display: inline;
+  width: 150px;
+  color: blue;
+}
+
+.credValue {
+  border: 1px solid #e0e0e0;
+  display: inline;
+  margin-left: 20px;
+}
+
+.shipTitle {
+  border: 1px solid #e0e0e0;
+  width: 150px;
+  color: blue;
+}
